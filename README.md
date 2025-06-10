@@ -1,2 +1,2 @@
 # purple-BAM
-BAM training
+[BAM training](https://d9d9deema.github.io/purple-BAM/)
